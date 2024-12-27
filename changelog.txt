@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 2024-11-19
+  Bugfixes:
+    - Adjusted some technologies
+    - Adjusted balanced recipes from last update
+    - Corrected some localisation errors
+    - Removed obsolete dependencies
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2024-11-19
+  Features:
+    - Adjusted recipe for space platforms in balancing changes
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2024-11-18
+  Features:
+    - Added optional balancing changes for space-platform start
+    - Added Small electric furnace

@@ -1,0 +1,9 @@
+{
+    "name": "Advanced-Asteroid-Resouces",
+    "version": "2.0.3",
+    "title": "Advanced Asteroid Resources",
+    "author": "mcmodderHD",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age >= 1.0", "!More-Asteroid-Resources-Forked"],
+    "description": "This mod changes asteroid processing recipes. Also i am working on making it possible to start in space. Some Adjustments can already be activated."
+}
